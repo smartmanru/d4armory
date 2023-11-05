@@ -2621,3 +2621,17 @@
 2023-11-05 07:00:39,781 - __main__ - INFO - has logged in since last check: True
 2023-11-05 07:00:39,781 - __main__ - INFO - completed processing account: 105827698
 2023-11-05 07:00:39,781 - __main__ - INFO - COMPLETE EXECUTE
+2023-11-05 08:01:04,419 - __main__ - DEBUG - getting env var: DATA_PATH
+2023-11-05 08:01:04,419 - __main__ - DEBUG - couldn't get env var DATA_PATH - using default: data
+2023-11-05 08:01:04,419 - __main__ - INFO - START EXECUTE
+2023-11-05 08:01:04,419 - __main__ - INFO - processing account: 105827698
+2023-11-05 08:01:04,420 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/105827698
+2023-11-05 08:01:04,732 - __main__ - INFO - fetching character id: Smartman - bc2a1ae0-6d3e-11ee-8851-5d1ee8f8e692
+2023-11-05 08:01:04,732 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/105827698/bc2a1ae0-6d3e-11ee-8851-5d1ee8f8e692
+2023-11-05 08:01:04,978 - __main__ - INFO - queue position 3 - sleeping for 3 seconds
+2023-11-05 08:01:07,982 - __main__ - INFO - fetching character id: Smartman - bc2a1ae0-6d3e-11ee-8851-5d1ee8f8e692
+2023-11-05 08:01:07,983 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/105827698/bc2a1ae0-6d3e-11ee-8851-5d1ee8f8e692
+2023-11-05 08:01:08,165 - __main__ - INFO - last login: 1699167578974000000
+2023-11-05 08:01:08,166 - __main__ - INFO - has logged in since last check: True
+2023-11-05 08:01:08,166 - __main__ - INFO - completed processing account: 105827698
+2023-11-05 08:01:08,167 - __main__ - INFO - COMPLETE EXECUTE
