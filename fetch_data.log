@@ -11158,3 +11158,25 @@ AttributeError: 'NoneType' object has no attribute 'get'
 2023-11-29 11:00:55,616 - __main__ - INFO - has logged in since last check: True
 2023-11-29 11:00:55,617 - __main__ - INFO - completed processing account: 105827698
 2023-11-29 11:00:55,617 - __main__ - INFO - COMPLETE EXECUTE
+2023-11-29 12:09:18,752 - __main__ - DEBUG - getting env var: DATA_PATH
+2023-11-29 12:09:18,752 - __main__ - DEBUG - couldn't get env var DATA_PATH - using default: data
+2023-11-29 12:09:18,752 - __main__ - INFO - START EXECUTE
+2023-11-29 12:09:18,752 - __main__ - INFO - processing account: 105827698
+2023-11-29 12:09:18,752 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/105827698
+2023-11-29 12:09:18,892 - __main__ - INFO - fetching character id: Smartman - bc2a1ae0-6d3e-11ee-8851-5d1ee8f8e692
+2023-11-29 12:09:18,892 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/105827698/bc2a1ae0-6d3e-11ee-8851-5d1ee8f8e692
+2023-11-29 12:09:18,988 - __main__ - INFO - queue position 2 - sleeping for 3 seconds
+2023-11-29 12:09:21,991 - __main__ - INFO - fetching character id: Smartman - bc2a1ae0-6d3e-11ee-8851-5d1ee8f8e692
+2023-11-29 12:09:21,991 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/105827698/bc2a1ae0-6d3e-11ee-8851-5d1ee8f8e692
+2023-11-29 12:09:22,100 - __main__ - INFO - last login: 1701255576489000000
+2023-11-29 12:09:22,100 - __main__ - INFO - has logged in since last check: True
+2023-11-29 12:09:22,100 - __main__ - INFO - fetching character id: варварях - 9088e5f0-8e9b-11ee-9c81-df2ba2c797b8
+2023-11-29 12:09:22,100 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/105827698/9088e5f0-8e9b-11ee-9c81-df2ba2c797b8
+2023-11-29 12:09:22,196 - __main__ - INFO - queue position 2 - sleeping for 3 seconds
+2023-11-29 12:09:25,199 - __main__ - INFO - fetching character id: варварях - 9088e5f0-8e9b-11ee-9c81-df2ba2c797b8
+2023-11-29 12:09:25,199 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/105827698/9088e5f0-8e9b-11ee-9c81-df2ba2c797b8
+2023-11-29 12:09:25,294 - __main__ - INFO - last login: 1701253638322000000
+2023-11-29 12:09:25,294 - __main__ - WARNING - character hasn't logged in since last fetch
+2023-11-29 12:09:25,294 - __main__ - INFO - has logged in since last check: False
+2023-11-29 12:09:25,294 - __main__ - INFO - completed processing account: 105827698
+2023-11-29 12:09:25,294 - __main__ - INFO - COMPLETE EXECUTE
