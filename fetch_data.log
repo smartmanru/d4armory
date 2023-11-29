@@ -11094,3 +11094,18 @@ AttributeError: 'NoneType' object has no attribute 'get'
 2023-11-29 07:01:00,635 - __main__ - INFO - has logged in since last check: False
 2023-11-29 07:01:00,635 - __main__ - INFO - completed processing account: 105827698
 2023-11-29 07:01:00,636 - __main__ - INFO - COMPLETE EXECUTE
+2023-11-29 08:00:55,648 - __main__ - DEBUG - getting env var: DATA_PATH
+2023-11-29 08:00:55,648 - __main__ - DEBUG - couldn't get env var DATA_PATH - using default: data
+2023-11-29 08:00:55,648 - __main__ - INFO - START EXECUTE
+2023-11-29 08:00:55,648 - __main__ - INFO - processing account: 105827698
+2023-11-29 08:00:55,648 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/105827698
+2023-11-29 08:00:55,935 - __main__ - INFO - fetching character id: Smartman - bc2a1ae0-6d3e-11ee-8851-5d1ee8f8e692
+2023-11-29 08:00:55,935 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/105827698/bc2a1ae0-6d3e-11ee-8851-5d1ee8f8e692
+2023-11-29 08:00:56,106 - __main__ - INFO - queue position 3 - sleeping for 3 seconds
+2023-11-29 08:00:59,110 - __main__ - INFO - fetching character id: Smartman - bc2a1ae0-6d3e-11ee-8851-5d1ee8f8e692
+2023-11-29 08:00:59,110 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/105827698/bc2a1ae0-6d3e-11ee-8851-5d1ee8f8e692
+2023-11-29 08:00:59,273 - __main__ - INFO - last login: 1701185800859000000
+2023-11-29 08:00:59,273 - __main__ - WARNING - character hasn't logged in since last fetch
+2023-11-29 08:00:59,273 - __main__ - INFO - has logged in since last check: False
+2023-11-29 08:00:59,273 - __main__ - INFO - completed processing account: 105827698
+2023-11-29 08:00:59,273 - __main__ - INFO - COMPLETE EXECUTE
