@@ -3284,3 +3284,26 @@
 2023-12-05 21:00:43,399 - __main__ - INFO - has logged in since last check: False
 2023-12-05 21:00:43,399 - __main__ - INFO - completed processing account: 105827698
 2023-12-05 21:00:43,399 - __main__ - INFO - COMPLETE EXECUTE
+2023-12-05 22:00:37,932 - __main__ - DEBUG - getting env var: DATA_PATH
+2023-12-05 22:00:37,932 - __main__ - DEBUG - couldn't get env var DATA_PATH - using default: data
+2023-12-05 22:00:37,932 - __main__ - INFO - START EXECUTE
+2023-12-05 22:00:37,932 - __main__ - INFO - processing account: 105827698
+2023-12-05 22:00:37,932 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/105827698
+2023-12-05 22:00:38,260 - __main__ - INFO - fetching character id: Smartman - bc2a1ae0-6d3e-11ee-8851-5d1ee8f8e692
+2023-12-05 22:00:38,261 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/105827698/bc2a1ae0-6d3e-11ee-8851-5d1ee8f8e692
+2023-12-05 22:00:38,499 - __main__ - INFO - queue position 1 - sleeping for 3 seconds
+2023-12-05 22:00:41,503 - __main__ - INFO - fetching character id: Smartman - bc2a1ae0-6d3e-11ee-8851-5d1ee8f8e692
+2023-12-05 22:00:41,503 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/105827698/bc2a1ae0-6d3e-11ee-8851-5d1ee8f8e692
+2023-12-05 22:00:41,652 - __main__ - INFO - last login: 1701742471929000000
+2023-12-05 22:00:41,652 - __main__ - WARNING - character hasn't logged in since last fetch
+2023-12-05 22:00:41,652 - __main__ - INFO - has logged in since last check: False
+2023-12-05 22:00:41,652 - __main__ - INFO - fetching character id: варварях - 9088e5f0-8e9b-11ee-9c81-df2ba2c797b8
+2023-12-05 22:00:41,652 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/105827698/9088e5f0-8e9b-11ee-9c81-df2ba2c797b8
+2023-12-05 22:00:41,888 - __main__ - INFO - queue position 1 - sleeping for 3 seconds
+2023-12-05 22:00:44,891 - __main__ - INFO - fetching character id: варварях - 9088e5f0-8e9b-11ee-9c81-df2ba2c797b8
+2023-12-05 22:00:44,891 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/105827698/9088e5f0-8e9b-11ee-9c81-df2ba2c797b8
+2023-12-05 22:00:45,030 - __main__ - INFO - last login: 1701253638322000000
+2023-12-05 22:00:45,030 - __main__ - WARNING - character hasn't logged in since last fetch
+2023-12-05 22:00:45,031 - __main__ - INFO - has logged in since last check: False
+2023-12-05 22:00:45,031 - __main__ - INFO - completed processing account: 105827698
+2023-12-05 22:00:45,031 - __main__ - INFO - COMPLETE EXECUTE
