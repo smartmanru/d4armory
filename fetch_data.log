@@ -7776,3 +7776,26 @@ AttributeError: 'NoneType' object has no attribute 'get'
 2023-12-14 00:25:52,910 - __main__ - INFO - has logged in since last check: False
 2023-12-14 00:25:52,910 - __main__ - INFO - completed processing account: 105827698
 2023-12-14 00:25:52,910 - __main__ - INFO - COMPLETE EXECUTE
+2023-12-14 01:43:57,112 - __main__ - DEBUG - getting env var: DATA_PATH
+2023-12-14 01:43:57,112 - __main__ - DEBUG - couldn't get env var DATA_PATH - using default: data
+2023-12-14 01:43:57,112 - __main__ - INFO - START EXECUTE
+2023-12-14 01:43:57,113 - __main__ - INFO - processing account: 105827698
+2023-12-14 01:43:57,113 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/105827698
+2023-12-14 01:43:57,609 - __main__ - INFO - fetching character id: Smartman - bc2a1ae0-6d3e-11ee-8851-5d1ee8f8e692
+2023-12-14 01:43:57,609 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/105827698/bc2a1ae0-6d3e-11ee-8851-5d1ee8f8e692
+2023-12-14 01:43:57,787 - __main__ - INFO - queue position 1 - sleeping for 3 seconds
+2023-12-14 01:44:00,790 - __main__ - INFO - fetching character id: Smartman - bc2a1ae0-6d3e-11ee-8851-5d1ee8f8e692
+2023-12-14 01:44:00,791 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/105827698/bc2a1ae0-6d3e-11ee-8851-5d1ee8f8e692
+2023-12-14 01:44:00,956 - __main__ - INFO - last login: 1702406250073000000
+2023-12-14 01:44:00,957 - __main__ - WARNING - character hasn't logged in since last fetch
+2023-12-14 01:44:00,957 - __main__ - INFO - has logged in since last check: False
+2023-12-14 01:44:00,957 - __main__ - INFO - fetching character id: варварях - 9088e5f0-8e9b-11ee-9c81-df2ba2c797b8
+2023-12-14 01:44:00,957 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/105827698/9088e5f0-8e9b-11ee-9c81-df2ba2c797b8
+2023-12-14 01:44:01,178 - __main__ - INFO - queue position 1 - sleeping for 3 seconds
+2023-12-14 01:44:04,181 - __main__ - INFO - fetching character id: варварях - 9088e5f0-8e9b-11ee-9c81-df2ba2c797b8
+2023-12-14 01:44:04,182 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/105827698/9088e5f0-8e9b-11ee-9c81-df2ba2c797b8
+2023-12-14 01:44:04,328 - __main__ - INFO - last login: 1701253638322000000
+2023-12-14 01:44:04,328 - __main__ - WARNING - character hasn't logged in since last fetch
+2023-12-14 01:44:04,328 - __main__ - INFO - has logged in since last check: False
+2023-12-14 01:44:04,328 - __main__ - INFO - completed processing account: 105827698
+2023-12-14 01:44:04,329 - __main__ - INFO - COMPLETE EXECUTE
