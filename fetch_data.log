@@ -6886,3 +6886,13 @@ AttributeError: 'NoneType' object has no attribute 'get'
 2024-05-21 01:02:13,768 - __main__ - ERROR - Didn't get character id or name from response - char_id: 8185eef0-ba37-11ee-81cc-6bd5b6c3c7f3 - char_name: 
 2024-05-21 01:02:13,768 - __main__ - INFO - completed processing account: 105827698
 2024-05-21 01:02:13,768 - __main__ - INFO - COMPLETE EXECUTE
+2024-05-22 01:02:36,522 - __main__ - DEBUG - getting env var: DATA_PATH
+2024-05-22 01:02:36,522 - __main__ - DEBUG - couldn't get env var DATA_PATH - using default: data
+2024-05-22 01:02:36,522 - __main__ - INFO - START EXECUTE
+2024-05-22 01:02:36,522 - __main__ - INFO - processing account: 105827698
+2024-05-22 01:02:36,522 - __main__ - DEBUG - fetching json: https://d4armory.io/api/armory/105827698
+2024-05-22 01:02:36,946 - __main__ - ERROR - Didn't get character id or name from response - char_id: bc2a1ae0-6d3e-11ee-8851-5d1ee8f8e692 - char_name: 
+2024-05-22 01:02:36,947 - __main__ - ERROR - Didn't get character id or name from response - char_id: 9088e5f0-8e9b-11ee-9c81-df2ba2c797b8 - char_name: 
+2024-05-22 01:02:36,947 - __main__ - ERROR - Didn't get character id or name from response - char_id: 8185eef0-ba37-11ee-81cc-6bd5b6c3c7f3 - char_name: 
+2024-05-22 01:02:36,947 - __main__ - INFO - completed processing account: 105827698
+2024-05-22 01:02:36,947 - __main__ - INFO - COMPLETE EXECUTE
